@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codervivek496
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in .NET
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ... through website
 
