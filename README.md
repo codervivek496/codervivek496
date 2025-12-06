@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @codervivek496
-- 👀 I’m interested in .NET
-- 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ... through website
+A passionate .NET Software Engineer specializing in ASP.NET Core, MVC, Web API, C#, SQL Server, Entity Framework, and building scalable enterprise applications. I enjoy designing clean architectures, optimizing performance, and developing full-stack solutions that solve real-world problems.
 
-<!---
-codervivek496/codervivek496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Expertise: .NET Core, API Development, MVC, SQL, JavaScript, jQuery
+
+🌱 Currently Growing In: Microservices, Cloud (Azure), Clean Architecture
+
+🤝 Open to Collaboration: .NET projects, API systems, full-stack web apps
+
+🌐 Portfolio / Website: Coming soon
+
+📫 Reach Me: viveksinghssm496@gmail.com
